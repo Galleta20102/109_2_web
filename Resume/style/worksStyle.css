@@ -1,0 +1,83 @@
+body{
+    background-color: antiquewhite;
+}
+.opt{
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    float: left;
+    font-size: 22px;
+    font-family: Comic Sans MS;
+    text-align: 100%;
+}
+.opt:hover{
+    background-color: rgb(144, 90, 51);
+}
+#optBar{
+    top: 0%;
+    left: 7.5%;
+    width: 85%;
+    height: 8%;
+    background-color: saddlebrown;
+    color: antiquewhite;
+    position: fixed;
+}
+#infoImgDiv{
+    width: 28%;
+    height: 78%;
+    left: 20%;
+    top: 15%;
+    position: absolute;
+}
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 2%;
+}
+#Home{
+    background-color: rgb(195, 172, 218);
+    color: rgb(88,56,33);
+}
+#Home:hover{
+    background-color: rgb(210, 185, 235);
+}
+#githubBox{
+    background-color: rgb(215, 200, 250);
+    left: 20%;
+    top: 20%;
+    position: absolute;
+    width: 60%;
+    height: 70%;
+    border-radius: 6px;
+}
+img{
+    width: 45%;
+    height: 60%;
+    left: 4%;
+    top: 20%;
+    position: absolute;
+}
+#githubContant{
+    background-color: rgb(88,56,33);
+    left: 50%;
+    top: 15%;
+    position: absolute;
+    width: 40%;
+    height: 70%;
+    border-radius: 6px;
+    font-size: 18px;
+    font-family:Comic Sans MS;
+    font-weight: bolder;
+}
+.item{
+    color: bisque;
+    font-size: 30px;
+    font-family:Comic Sans MS;
+    font-weight: bolder;
+}
+a:visited{
+    color: rgb(215, 200, 250);
+}
+a{
+    text-decoration:none;
+}

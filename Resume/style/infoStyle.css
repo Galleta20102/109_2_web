@@ -1,0 +1,78 @@
+body{
+    background-color: antiquewhite;
+}
+.opt{
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    float: left;
+    font-size: 22px;
+    font-family: Comic Sans MS;
+    text-align: 100%;
+}
+.opt:hover{
+    background-color: rgb(144, 90, 51);
+}
+#optBar{
+    top: 0%;
+    left: 7.5%;
+    width: 85%;
+    height: 8%;
+    background-color: saddlebrown;
+    color: antiquewhite;
+    position: fixed;
+}
+#Home{
+    background-color: darkolivegreen;
+}
+#Home:hover{
+    background-color: rgb(104, 124, 70);
+}
+#infoImgDiv{
+    width: 28%;
+    height: 78%;
+    left: 20%;
+    top: 15%;
+    position: absolute;
+}
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 2%;
+}
+#name{
+    left: 52%;
+    top: 15%;
+    position: absolute;
+}
+.name{
+    z-index: 50;
+    position: relative;
+    color:rgb(88, 56, 33);
+    text-align: left;
+    font-size: 50px;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+}
+#infoBox{
+    color: beige;
+    background-color: darkolivegreen;
+    left: 52%;
+    top: 40%;
+    position: absolute;
+    width: 32%;
+    height: 40%;
+    border-radius: 2%;
+    font-size: 28px;
+    font-family:Comic Sans MS;
+}
+#infoContant{
+    left: 28%;
+    top: 30%;
+    position: absolute;
+    width: 64%;
+    height: 60%;
+    background-color: beige;
+    border-radius: 2%;
+    color: darkolivegreen;
+}

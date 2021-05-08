@@ -1,0 +1,76 @@
+body{
+    background-image: url("../images/gussing_Background.jpg"); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    font-family: "微軟正黑體";
+    font-weight: bolder;
+}
+#titleBox{
+    width: 34%;
+    height: 10%;
+    left: 33%;
+    top: 8.5%;
+    position: absolute;
+    font-size: 56px;
+    color: aliceblue;
+    text-align: center;
+}
+#contantBox{
+    background-color:aliceblue;
+    width: 30%;
+    height: 44%;
+    border-radius: 2%;
+    left: 33%;
+    top: 15%;
+    position: absolute;
+    padding: 2%;
+    font-family: "微軟正黑體";
+    font-weight: bolder;
+}
+#titleSmile{
+    font-size: 26px;
+    color: rgb(65, 42, 165);
+    text-align: center;
+}
+.contant{
+    font-size: 20px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    margin: 10px;
+    width: 46%;
+    height: 20%;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(88, 85, 88);
+}
+#opt0{
+    background-color: rgb(228, 212, 235);
+}
+#opt0:hover{
+    background-color: rgb(225, 200, 236);
+}
+#opt1{
+    background-color: rgb(219, 213, 255);
+}
+#opt1:hover{
+    background-color: rgb(208, 199, 255);
+}
+#opt2{
+    background-color: rgb(212, 221, 255)
+}
+#opt2:hover{
+    background-color: rgb(201, 212, 251);
+}
+#opt3{
+    background-color: rgb(189, 228, 255);
+}
+#opt3:hover{
+    background-color: rgb(175, 223, 255);
+}

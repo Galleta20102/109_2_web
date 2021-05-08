@@ -1,0 +1,50 @@
+body{
+    background-image: url("../images/score_Background.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: "微軟正黑體";
+}
+#titleBox{
+    width: 34%;
+    height: 10%;
+    left: 33%;
+    top: 8.5%;
+    position: absolute;
+    font-size: 56px;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+#indexBox{
+    background-color:aliceblue;
+    width: 30%;
+    height: 44%;
+    border-radius: 2%;
+    left: 33%;
+    top: 15%;
+    position: absolute;
+    padding: 2%;
+}
+#titleSmile{
+    font-size: 38px;
+    color: rgb(155, 50, 146);
+    font-weight: bolder;
+    text-align: center;
+}
+.contant{
+    font-size: 20px;
+    color: rgb(78, 78, 78);
+    font-weight: bolder;
+    text-align: center;
+}
+input{
+    width: 100%;
+    height: 45%;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    color: brown;
+    
+}

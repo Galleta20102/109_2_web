@@ -54,3 +54,11 @@ body{
     background-color: rgb(224, 155, 77);
     color: rgb(126, 80, 52);
 }
+.eqt{
+    background-color: rgb(252, 243, 225);
+    color:rgba(240, 0, 0, 0.973);
+}
+.eqt:hover{
+    background-color: rgb(241, 94, 131);
+    color: rgb(252, 243, 225);
+}

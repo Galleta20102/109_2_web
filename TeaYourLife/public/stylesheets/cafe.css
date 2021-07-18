@@ -1,0 +1,56 @@
+#Cover{
+    background-image: url("/images/about/sectionCoverFilter.png");
+    height: 52vh;
+}
+
+table{
+    border-collapse: separate;
+}
+
+#searchBox{
+    margin-top: 60px;
+}
+#searchBar{
+    background-color: white;
+    border-radius: 30px;
+    width: 900px;
+    border: #654236 solid 3px;
+}
+input[type="text"]{
+    background-color: transparent;
+    border:0;
+    outline: none;
+    padding: 8px;
+    font-size: 18px;
+    width: 820px;
+}
+input[type="submit"]{
+    background-image: url("../images/searchingIcon.png");
+    background-color: transparent;
+    border:0;
+    width: 32px;
+    height: 32px;
+    background-size: cover;
+}
+
+img[alt = "cafeImg"]{
+    width: 400px;
+    height: 300px;
+}
+#cafeName{
+    margin-top: 10px;
+    color: #654236;
+    font-size: 22px;
+    font-weight: bolder;
+}
+#starRating{
+    margin-top: 10px;
+    color: #d16a16;
+    font-size: 18px;
+    font-weight: bolder;
+}
+img[alt="cafeImg"]:hover{
+    transition-duration: 100ms;
+    transform: scale(0.97);
+}
+

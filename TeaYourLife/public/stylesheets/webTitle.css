@@ -1,0 +1,24 @@
+#titleBox{
+    color: white;
+    margin-top: 15vh;
+}
+#title{
+    -webkit-text-stroke: 1px white;
+}
+#linkes{
+    margin-top: 150px;
+    color: #697a21;
+    font-size: 18px;
+    font-weight: bold;
+}
+#link{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #d8baa9;
+}
+a:visited{
+    color: #d8baa9;
+}
+a{
+    text-decoration:none;
+}

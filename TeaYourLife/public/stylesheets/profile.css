@@ -1,0 +1,42 @@
+#Cover{
+    background-image: url("/images/profile/cover_filter.png");
+    height: 52vh;
+}
+
+#favoriteSection{
+    margin-top: 100px;
+}
+.favoriteCafe{
+    background-color:rgb(126, 106, 88);
+    padding: 20px;
+}
+.favoriteCafe:hover{
+    transition-duration: 100ms;
+    transform: scale(0.97);
+    cursor: pointer;
+}
+img[alt="cafePicture"]{
+    width: 280px;
+    height: 240px;
+}
+#cafeName{
+    color:antiquewhite;
+    font-size: 28px;
+    font-weight: bolder;
+}
+#starRating{
+    color:gold;
+    font-size: 14px;
+}
+#phoneNumber{
+    color:antiquewhite;
+    font-size: 20px;
+}
+#title{
+    color: white;
+}
+
+#cafeInfo {
+    text-align: left;
+}
+

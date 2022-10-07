@@ -1,0 +1,37 @@
+#Cover{
+    background-image: url("../img/recommend/recommendCoverFilter.png");
+    height: 52vh;
+}
+#recommendBox{
+    margin-top: 30px;
+}
+.recommend{
+    border: #654236 solid 5px;
+    width: 400px;
+    height: 600px;
+    float: left;
+    margin: 15px;
+    padding: 20px;
+}
+#author{
+    color: #A78673;
+    font-size: 25px;
+    font-weight: bolder;
+}
+img[alt="article.png"]{
+    width: 100%;
+}
+img[alt="article.png"]:hover{
+    cursor: pointer;
+    transition-duration: 100ms;
+    transform: scale(1.03);
+}
+#articleTitle{
+    color: #654236;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#articleContant{
+    color: gray;
+    font-size: 20px;
+}

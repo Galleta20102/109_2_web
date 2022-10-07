@@ -1,0 +1,29 @@
+#Cover{
+    background-image: url("../img/about/sectionCoverFilter.png");
+    height: 52vh;
+}
+#bar{
+    background-image: url("../img/about/bar.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 48vh;
+    line-height: 100%;
+}
+#introduce{
+    width: 100vw;
+    height: 52vh;
+}
+#logoBox{
+    padding: 100px;
+}
+img[alt="ourLogo.png"]{
+    width: 100%;
+}
+#introContant{
+    color: #654236;
+    padding: 100px;
+    font-size: 30px;
+    line-height: 70px;
+    font-weight: bolder;
+}

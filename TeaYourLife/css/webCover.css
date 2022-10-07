@@ -1,0 +1,46 @@
+#toolBarContainer {
+    background-color: transparent;
+    height: 15%;
+}
+
+.tool {
+    font-size: 25px;
+    color: white;
+    margin-top: 45px;
+    font-weight: bolder;
+}
+
+.tool:hover {
+    color: #d8baa9;
+    cursor: pointer
+}
+
+img[alt="logo.png"] {
+    cursor: pointer
+}
+
+img[alt="logo.png"]:hover {
+    transform: rotate(-5deg);
+}
+
+#Cover {
+    background-size: cover;
+    width: 100vw;
+    line-height: 100%;
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+#ourName {
+    color: #d8baa9;
+    -webkit-text-stroke: 2px #dbbaa9;
+}
+
+#headshot {
+    height: 35px;
+    border-radius: 30px;
+}
+
+.linkes {
+    color: #d8baa9;
+}

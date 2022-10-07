@@ -1,0 +1,16 @@
+#Cover{
+    background-image: url("../img/index/index_cover_filter.png");
+    height: 100vh;
+}
+#indexTitle{
+    color: white;
+    -webkit-text-stroke: 2px white;
+    margin-top: 20vh;
+}
+#buttom{
+    color: white;
+}
+
+body {
+    background-color: gray;
+}
